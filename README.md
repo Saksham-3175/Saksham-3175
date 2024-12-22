@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Saksham Shukla!
+## Aspiring AI/ML Engineer and Undergrad Student
 
-<!--
-**Saksham-3175/Saksham-3175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Passionate about learning and innovating at the Artificial Intelligence and Data Science intersection. I enjoy tackling problems by exploring how they can be transformed into machine-learning solutions.
+### 🔭 What I’m Working On
 
-Here are some ideas to get you started:
+  Currently exploring Generative AI and its applications in NLP, image generation, and synthetic data creation.
+  Integrating AI chatbots into real-world systems to enhance functionality and interactivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 My Learning Journey
+
+  Short-term: Mastering Machine Learning and Data Science concepts.
+  Long-term: Gearing up for a career in AI/ML engineering, focusing on impactful problem-solving and innovation.
+
+## 🚀 Hobbies
+
+I enjoy thinking deeply about real-world problems and envisioning how they can be modeled and solved using AI or Data Science techniques.
+
+## 📫 Connect With Me
+
+  LinkedIn: https://www.linkedin.com/in/sakshamshukla31
+
+
